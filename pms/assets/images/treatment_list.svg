@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="512" height="512">
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTa" x1="32" x2="32" y1="50.833" y2="52.376" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#6dc7ff" />
+    <stop offset="1" stop-color="#e6abff" />
+  </linearGradient>
+  <rect width="28" height="1" x="18" y="51" fill="url(#pgC9fnbsj2LScS7DTlqcTa)" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTb" x1="23.5" x2="23.5" y1="10.5" y2="12.754" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#6dc7ff" />
+    <stop offset="1" stop-color="#e6abff" />
+  </linearGradient>
+  <rect width="7" height="1" x="20" y="11" fill="url(#pgC9fnbsj2LScS7DTlqcTb)" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTc" x1="40.5" x2="40.5" y1="10.5" y2="12.754" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#6dc7ff" />
+    <stop offset="1" stop-color="#e6abff" />
+  </linearGradient>
+  <rect width="7" height="1" x="37" y="11" fill="url(#pgC9fnbsj2LScS7DTlqcTc)" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTd" x1="32" x2="32" y1="6.319" y2="57.746" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <path fill="url(#pgC9fnbsj2LScS7DTlqcTd)" d="M48,12h-2v-1c0-1.103-0.897-2-2-2h-7.42C35.806,7.236,34.046,6,32,6s-3.806,1.236-4.58,3H20 c-1.103,0-2,0.897-2,2v1h-2c-2.206,0-4,1.794-4,4v38c0,2.206,1.794,4,4,4h32c2.206,0,4-1.794,4-4V16C52,13.794,50.206,12,48,12z M37,11h7v1h-7V11z M29,11c0-1.654,1.346-3,3-3s3,1.346,3,3l0.002,7H29V11z M29,20h6c1.103,0,2-0.897,2-2h9v31H18V18h9 C27,19.103,27.897,20,29,20z M46,51v1H18v-1H46z M20,11h7v1h-7V11z M50,54c0,1.103-0.897,2-2,2H16c-1.103,0-2-0.897-2-2V16 c0-1.103,0.897-2,2-2h11v2h-9c-1.103,0-2,0.897-2,2v31v3c0,1.103,0.897,2,2,2h28c1.103,0,2-0.897,2-2v-3V18c0-1.103-0.897-2-2-2h-9 v-2h11c1.103,0,2,0.897,2,2V54z" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTe" x1="32" x2="32" y1="6.319" y2="57.746" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <polygon fill="url(#pgC9fnbsj2LScS7DTlqcTe)" points="29.604,28.335 31,27.387 31,29 33,29 33,27.387 34.396,28.335 35.52,26.68 33.781,25.5 35.52,24.32 34.396,22.665 33,23.613 33,22 31,22 31,23.613 29.604,22.665 28.48,24.32 30.219,25.5 28.48,26.68" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTf" x1="23" x2="23" y1="6.319" y2="57.746" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <path fill="url(#pgC9fnbsj2LScS7DTlqcTf)" d="M24,31h-2c-1.103,0-2,0.897-2,2v2c0,1.103,0.897,2,2,2h2c1.103,0,2-0.897,2-2v-2 C26,31.897,25.103,31,24,31z M22,35v-2h2l0.001,2H22z" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTg" x1="23" x2="23" y1="6.319" y2="57.746" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <path fill="url(#pgC9fnbsj2LScS7DTlqcTg)" d="M24,40h-2c-1.103,0-2,0.897-2,2v2c0,1.103,0.897,2,2,2h2c1.103,0,2-0.897,2-2v-2 C26,40.897,25.103,40,24,40z M22,44v-2h2l0.001,2H22z" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTh" x1="36.031" x2="36.031" y1="6.319" y2="57.746" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <rect width="15.938" height="2" x="28.062" y="31" fill="url(#pgC9fnbsj2LScS7DTlqcTh)" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTi" x1="33" x2="33" y1="6.319" y2="57.746" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <rect width="10" height="2" x="28" y="35" fill="url(#pgC9fnbsj2LScS7DTlqcTi)" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTj" x1="36.031" x2="36.031" y1="6.319" y2="57.746" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <rect width="15.938" height="2" x="28.062" y="40" fill="url(#pgC9fnbsj2LScS7DTlqcTj)" />
+  <linearGradient id="pgC9fnbsj2LScS7DTlqcTk" x1="33" x2="33" y1="6.319" y2="57.746" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#1a6dff" />
+    <stop offset="1" stop-color="#c822ff" />
+  </linearGradient>
+  <rect width="10" height="2" x="28" y="44" fill="url(#pgC9fnbsj2LScS7DTlqcTk)" />
+</svg>
